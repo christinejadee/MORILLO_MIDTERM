@@ -73,8 +73,8 @@ public class UniversityEnrollment {
 
     public static void main(String[] args) {
         // Create two Student objects
-        Student student1 = new Student("Christine", 19, "231004007", "Computer Engineering", 19);
-        Student student2 = new Student("Harley", 21, "22200465", "Nursing", 21);
+        Student student1 = new Student("Christine", 19, "231004007", "Bachelor of Science in Computer Engineering", 19);
+        Student student2 = new Student("Harley", 21, "22200465", "Bachelor of Science in Nursing", 21);
 
         // Create two Instructor objects
         Instructor instructor1 = new Instructor("Engr. Jovillano", 25, "I12345", "College of Engineering and Architecture", 30000);
